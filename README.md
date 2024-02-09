@@ -5,13 +5,15 @@
 
 - 🌱 I’m currently learning **Web development tools [HTML-CSS-etc..]**
 
-- 📫 How to reach me **abrarhosny19@gmail.com**
 
 <p align="left">
 </p>
 
 <a href="https://www.linkedin.com/in/abrar-mohamed-4a45932b1/">
   <img src="https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin&logoColor=blue" alt="LinkedIn" width="120px" height="40">
+</a>
+<a href="mailto:abrarhosny19@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-red?style=social&logo=gmail&logoColor=red" alt="Gmail" width="120px" height="40">
 </a>
 
 
