@@ -10,6 +10,9 @@
 <p align="left">
 </p>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/yourusername/)
+
+
 ![Abrar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abrar-Hosny&hide=contribs,prs)
 
   ![](https://komarev.com/ghpvc/?username=Abrar-Hosny&style=flat-square)
