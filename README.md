@@ -1,9 +1,9 @@
 <h1 align="center">Welcome to my account ⚡ , I'm Abrar </h1>
-<h3 align="center"> ⚡hope you enjoy here ⚡</h3>
-<img align="right" alt="coding" width="300"src="https://www.gifcen.com/wp-content/uploads/2022/06/lofi-gif-7.gif">
+<h3 align="center"> hope you enjoy here </h3>
+<img align="right" alt="coding" width="300"src="https://github-readme-stats.vercel.app/api?username=Abrar-Hosny&theme=dark&show_icons=true">
 
 
-- 🌱 I’m currently learning **Web development tools [HTML-CSS-etc..]**
+- <h2></h2> I’m currently learning **Web development tools [HTML-CSS-etc..]**
 <br>
 
 <p align="left">
@@ -16,6 +16,6 @@
   <img src="https://img.shields.io/badge/Gmail-red?style=social&logo=gmail&logoColor=red" alt="Gmail" width="120px" height="40">
 </a><br>
 
-![Abrar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abrar-Hosny&theme=dark&show_icons=true)
+![Abrar's GitHub stats])
 
   ![](https://komarev.com/ghpvc/?username=Abrar-Hosny&style=flat-square)
