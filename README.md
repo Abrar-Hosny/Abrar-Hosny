@@ -13,6 +13,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/abrar-mohamed-4a45932b1/)
 
 
-![Abrar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abrar-Hosny&hide=contribs,prs)
+![Abrar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abrar-Hosny&theme=dark&show_icons=true)
 
   ![](https://komarev.com/ghpvc/?username=Abrar-Hosny&style=flat-square)
