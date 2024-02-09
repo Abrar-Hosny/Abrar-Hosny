@@ -11,7 +11,7 @@
 </p>
 
 <a href="https://www.linkedin.com/in/abrar-mohamed-4a45932b1/">
-  <img src="https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin&logoColor=blue" alt="LinkedIn" width="100px" height="50">
+  <img src="https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin&logoColor=blue" alt="LinkedIn" width="150px" height="30">
 </a>
 
 
