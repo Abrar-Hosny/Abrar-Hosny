@@ -10,7 +10,9 @@
 <p align="left">
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/abrar-mohamed-4a45932b1/)
+<a href="https://www.linkedin.com/in/abrar-mohamed-4a45932b1/">
+  <img src="https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin&logoColor=blue" alt="LinkedIn" width="50" height="50">
+</a>
 
 
 ![Abrar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abrar-Hosny&theme=dark&show_icons=true)
