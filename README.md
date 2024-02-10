@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my account ⚡ , I'm Abrar </h1>
 <h3 align="center"> hope you enjoy here </h3>
-- <h2> I am a Junior Frontend Developer </h2>
+<h2> I am a Junior Frontend Developer </h2>
 <br>
 
 <p align="left">
