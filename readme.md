@@ -36,6 +36,14 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
   </a>
 </p>
+
+<a> 
+    <a href="https://github.com/Abrar-Hosny"><img alt="Abrar's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=abrar-hosny&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Abrar-Hosny"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+
 #You Can Find Me At
 <p align="center">
  <a href="www.linkedin.com/in/abrar-mohamed-4a45932b1" target="blank">
@@ -55,11 +63,5 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Abrar's GitHub Contribution"/>
   </a>
 </p>
-
-<a> 
-    <a href="https://github.com/Abrar-Hosny"><img alt="Abrar's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=abrar-hosny&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Abrar-Hosny"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
 
 
