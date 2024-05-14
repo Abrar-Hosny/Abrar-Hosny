@@ -5,9 +5,8 @@
 <br />
 
 <!-- About Section -->
- <h1 align="center">Hello There</h1>
-  I am A Frontend Developer t
-
+ <h1 align="center">👋 Hello,Abrar Hosny</h1>
+  I'm a passionate frontend developer who loves crafting beautiful and functional user interfaces. With a keen eye for design and a knack for coding, I strive to create engaging web experiences that delight users.
 <br/>
 <br/>
 <br/>
