@@ -5,8 +5,9 @@
 <br />
 
 <!-- About Section -->
- <h1 align="center">👋 Hello, Abrar There</h1>
-  I'm a passionate frontend developer who loves crafting beautiful and functional user interfaces. With a keen eye for design and a knack for coding, I strive to create engaging web experiences that delight users.
+ <h1 align="center">👋 Hello, Abrar </h1>
+<p align="center">  I'm a passionate frontend developer who loves crafting beautiful and functional user interfaces. With a keen eye for design and a knack for coding, I strive to create engaging web experiences that delight users.
+</p>
 <br/>
 <br/>
 <br/>
