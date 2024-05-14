@@ -16,12 +16,12 @@
  <a href="www.linkedin.com/in/abrar-mohamed-4a45932b1" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="" />
  </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
+ <a href="https://linkedin.com/inm](https://linkedin.com/inm" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/>
  </a>
  
  <a href="mailto:abrarhosny19@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=mail&logoColor=white" alt="alsiam" />
  </a> 
 
 </p>
