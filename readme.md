@@ -13,7 +13,7 @@
 <br/>
 
 
-## Use To Code
+# My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cpp,figma,github,vscode,tailwind,arduino,firebase)](https://skillicons.dev)
 
