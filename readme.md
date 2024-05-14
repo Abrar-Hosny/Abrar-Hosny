@@ -1,30 +1,15 @@
 
-
-
-
-<br />
-
 <!-- About Section -->
  <h1 align="center">👋 Hello, Abrar </h1>
 <p align="center">  I'm a passionate frontend developer who loves crafting beautiful and functional user interfaces. With a keen eye for design and a knack for coding, I strive to create engaging web experiences that delight users.
 </p>
-<br/>
-
-
 
 # My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cpp,figma,github,vscode,tailwind,arduino,firebase)](https://skillicons.dev)
 
 
-
-<p align="left">
-  <a href="https://github.com/Abrar-Hosny?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<br/>
 <hr/>
-<br/>
 
 <p align="center">
   <a href="https://github.com/Abrar-Hosny">
