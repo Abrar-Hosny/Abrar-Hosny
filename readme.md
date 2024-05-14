@@ -5,8 +5,8 @@
 <br />
 
 <!-- About Section -->
- # About me
- ## I am A Frontend Developer t
+ <h1 align="center">Hello There</h1>
+  I am A Frontend Developer t
 
 <br/>
 <br/>
